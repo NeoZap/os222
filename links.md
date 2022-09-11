@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS/.
+permalink: /LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -18,9 +18,6 @@ permalink: /LINKS/.
 Website utama mata kuliah Operating Systems.
 Website ini akan memandu Anda dengan langkah yang detail dalam belajar mengenai OS.
 
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
 

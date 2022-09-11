@@ -9,4 +9,6 @@
 [TARBALL](SandBox/NeoZap.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <hr>
+Hello! Nice to meet you, I'm Aushaaf Fadhilah Azzah. Also, you can call me by Fada. Welcome! :D
+<hr>
 <br>
