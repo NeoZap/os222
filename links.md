@@ -32,6 +32,9 @@ Sangat berguna untuk memahami lebih dalam mengenai bagaimana salah satu metode p
 6. [GnuPG Cheatsheet](https://devhints.io/gnupg)<br>
 Cheatsheet untuk GnuPG. Cocok apabila ingin bereksperimen dengan GnuPG atau ingin melihat apa saja yang bisa dilakukan GnuPG.
 
+7. [File Allocation Methods](https://www.javatpoint.com/os-allocation-methods)<br>
+Artikel yang memuat berbagi macam metode File Allocation. Section File Management pada website ini sangatlah membantu saya memahami bagaimana seluk beluk mengenai file. Website ini juga mengandung OS Tutorial yang cukup lengkap dan sangat layak untuk dijadikan referensi belajar. :)
+
 <hr>
 <br>
 
