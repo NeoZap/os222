@@ -35,6 +35,9 @@ Cheatsheet untuk GnuPG. Cocok apabila ingin bereksperimen dengan GnuPG atau ingi
 7. [File Allocation Methods](https://www.javatpoint.com/os-allocation-methods)<br>
 Artikel yang memuat berbagi macam metode File Allocation. Section File Management pada website ini sangatlah membantu saya memahami bagaimana seluk beluk mengenai file. Website ini juga mengandung OS Tutorial yang cukup lengkap dan sangat layak untuk dijadikan referensi belajar. :)
 
+8. [Fix for "Unable to resolve hostname error" thingies](https://askubuntu.com/questions/1347712/make-etc-resolv-conf-changes-permanent-in-wsl-2/1398053#1398053)<br>
+Actually helpful fix if your VM have this "Unable to resolve hostname" error like mine. Ignore the WSL stuffs, the overwrite nameserver in etc/resolv.conf into 8.8.8.8 is the useful fix.
+
 <hr>
 <br>
 
