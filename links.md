@@ -38,6 +38,14 @@ Artikel yang memuat berbagi macam metode File Allocation. Section File Managemen
 8. [Fix for "Unable to resolve hostname error" thingies](https://askubuntu.com/questions/1347712/make-etc-resolv-conf-changes-permanent-in-wsl-2/1398053#1398053)<br>
 Actually helpful fix if your VM have this "Unable to resolve hostname" error like mine. Ignore the WSL stuffs, the overwrite nameserver in etc/resolv.conf into 8.8.8.8 is the useful fix.
 
+9. [Makefile](https://makefiletutorial.com/)<br>
+Explains what is Makefile and how to make and use it. Very detaled explanations with examples.
+
+10. [Pointers in C](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)<br>
+Detailed tutorial about pointers in C. With visualizations and clear examples, too. Awesome.
+
+11. [Double Pointers & 2D Array in C](https://cs.brynmawr.edu/Courses/cs246/spring2014/Slides/16_2DArray_Pointers.pdf)<br>
+Slide I found that helps me understand how double pointers are used to create 2d array. 
 <hr>
 <br>
 
