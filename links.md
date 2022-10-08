@@ -46,6 +46,13 @@ Detailed tutorial about pointers in C. With visualizations and clear examples, t
 
 11. [Double Pointers & 2D Array in C](https://cs.brynmawr.edu/Courses/cs246/spring2014/Slides/16_2DArray_Pointers.pdf)<br>
 Slide I found that helps me understand how double pointers are used to create 2d array. 
+
+12. [GFG's Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+An article that concretely explains what is Virtual Memory, how it works, and its various techniques. Good for W05 Quiz :v
+
+13. [Tutorialspoint's Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Another one that explains Virtual Memory. They complement each other I guess.
+
 <hr>
 <br>
 
