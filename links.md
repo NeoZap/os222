@@ -53,6 +53,9 @@ An article that concretely explains what is Virtual Memory, how it works, and it
 13. [Tutorialspoint's Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 Another one that explains Virtual Memory. They complement each other I guess.
 
+14. [Fork Syscall in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Geeksforgeeks article that explain what is fork, and how fork works. With those ascii tree illustrations, this article will surely help you understand fork better.
+
 <hr>
 <br>
 
